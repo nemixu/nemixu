@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2 align="center">Hello there! My name is Stephen. 👋🤓</h2>
+<p align="center">I'm a junior software developer from Dublin, Ireland.
+Currently learning ReactJS and constantly trying to improve my skills! I started coding just over a year ago and I am looking to change career to software development.
+  Recent graduate from Code Institute's Fullstack webdevelopment Course which I received an upper second class honours.
+</p>
+
+
+![Stephens Github Stats](https://github-readme-stats.vercel.app/api/?username=nemixu&count_private=true&theme=tokyonight&showicons=true)
 
 <!--
 **nemixu/nemixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
