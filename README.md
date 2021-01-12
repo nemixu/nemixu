@@ -5,7 +5,7 @@ Currently learning ReactJS and constantly trying to improve my skills! I started
 </p>
 
 
-![Stephens Github Stats](https://github-readme-stats.vercel.app/api/?username=nemixu&theme=tokyonight&showicons=true)
+![Stephens Github Stats](https://github-readme-stats.vercel.app/api?username=nemixu&theme=tokyonight)
 
 <!--
 **nemixu/nemixu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
