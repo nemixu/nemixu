@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! My name is Stephen. 👋🤓</h2>
-<p align="center">I'm a junior software developer from Dublin, Ireland.
-Currently learning ReactJS and constantly trying to improve my skills! I started coding just over a year ago and I am looking to change career to software development.
-  Recent graduate from Code Institute's Fullstack software development course which I received an upper second class honours.
+<p align="center">I'm a Software Engineer from Dublin, Ireland.
+Skilled in .NET and Xamarin Forms building Inpatient Care Experience platforms supported on Droid and UWP. Also highly skilled with Django, python, JavaScript, Bootstrap.
+  Graduate from Code Institute's Fullstack software development course which I received an upper second class honours.
 </p>
 
 
