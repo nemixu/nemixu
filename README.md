@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! My name is Stephen. 👋🤓</h2>
 <p align="center">I'm a Software Engineer from Dublin, Ireland.
-Skilled in .NET and Xamarin Forms building Inpatient Care Experience platforms supported on Android and UWP. Experience working with Django, python, JavaScript (React), Bootstrap. Unit testing with Nunit(.net) and Jest for react
+Skilled in .NET and Xamarin Forms building Inpatient Care Experience platforms supported on Android and UWP. Experience working with Django, python, JavaScript (React), Bootstrap. Unit testing with Nunit(.net) and Jest for react.
   Graduate from Code Institute Software development course which I received an upper second class honours.
 </p>
 
